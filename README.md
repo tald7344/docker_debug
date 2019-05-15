@@ -1,8 +1,8 @@
 # Debugging with Visual Studio Code, XDebug and Docker on Windows
 
-1. Clone the repository: https://github.com/apparena/docker-init
+1. Clone the repository:
 ```git
-git clone https://github.com/tald7344
+git clone https://github.com/tald7344/docker_debug
 ```
 
 2. Open **Docker Debug** folder using vcode
